@@ -15,6 +15,8 @@ public class JuegoHeroe {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
+        int nuevo = 12; 
         // TODO code application logic here
     }
     
